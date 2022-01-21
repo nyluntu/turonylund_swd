@@ -1,0 +1,15 @@
+C:\Users\Sovelluskontti\source\repos\GitignoreHarjoitus\GitignoreHarjoitus\bin\Debug\net6.0\GitignoreHarjoitus.exe
+C:\Users\Sovelluskontti\source\repos\GitignoreHarjoitus\GitignoreHarjoitus\bin\Debug\net6.0\GitignoreHarjoitus.deps.json
+C:\Users\Sovelluskontti\source\repos\GitignoreHarjoitus\GitignoreHarjoitus\bin\Debug\net6.0\GitignoreHarjoitus.runtimeconfig.json
+C:\Users\Sovelluskontti\source\repos\GitignoreHarjoitus\GitignoreHarjoitus\bin\Debug\net6.0\GitignoreHarjoitus.dll
+C:\Users\Sovelluskontti\source\repos\GitignoreHarjoitus\GitignoreHarjoitus\bin\Debug\net6.0\ref\GitignoreHarjoitus.dll
+C:\Users\Sovelluskontti\source\repos\GitignoreHarjoitus\GitignoreHarjoitus\bin\Debug\net6.0\GitignoreHarjoitus.pdb
+C:\Users\Sovelluskontti\source\repos\GitignoreHarjoitus\GitignoreHarjoitus\obj\Debug\net6.0\GitignoreHarjoitus.csproj.AssemblyReference.cache
+C:\Users\Sovelluskontti\source\repos\GitignoreHarjoitus\GitignoreHarjoitus\obj\Debug\net6.0\GitignoreHarjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sovelluskontti\source\repos\GitignoreHarjoitus\GitignoreHarjoitus\obj\Debug\net6.0\GitignoreHarjoitus.AssemblyInfoInputs.cache
+C:\Users\Sovelluskontti\source\repos\GitignoreHarjoitus\GitignoreHarjoitus\obj\Debug\net6.0\GitignoreHarjoitus.AssemblyInfo.cs
+C:\Users\Sovelluskontti\source\repos\GitignoreHarjoitus\GitignoreHarjoitus\obj\Debug\net6.0\GitignoreHarjoitus.csproj.CoreCompileInputs.cache
+C:\Users\Sovelluskontti\source\repos\GitignoreHarjoitus\GitignoreHarjoitus\obj\Debug\net6.0\GitignoreHarjoitus.dll
+C:\Users\Sovelluskontti\source\repos\GitignoreHarjoitus\GitignoreHarjoitus\obj\Debug\net6.0\ref\GitignoreHarjoitus.dll
+C:\Users\Sovelluskontti\source\repos\GitignoreHarjoitus\GitignoreHarjoitus\obj\Debug\net6.0\GitignoreHarjoitus.pdb
+C:\Users\Sovelluskontti\source\repos\GitignoreHarjoitus\GitignoreHarjoitus\obj\Debug\net6.0\GitignoreHarjoitus.genruntimeconfig.cache
