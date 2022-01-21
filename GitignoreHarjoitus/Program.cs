@@ -2,3 +2,4 @@
 Console.WriteLine("Huomenta Maailma!");
 
 Console.WriteLine("Ohjelmistokehitysharjoitus, gitignore.");
+Console.WriteLine("Gitignore tiedosto on nyt projektissa mukana.");
